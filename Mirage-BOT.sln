@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35931.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mirage-BOT", "Mirage-BOT\Mirage-BOT.csproj", "{4E11CB71-6439-429B-BAEA-B01C1178A9C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E11CB71-6439-429B-BAEA-B01C1178A9C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E11CB71-6439-429B-BAEA-B01C1178A9C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E11CB71-6439-429B-BAEA-B01C1178A9C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E11CB71-6439-429B-BAEA-B01C1178A9C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69CFCFF6-9E3C-4532-9150-9BB9C71E1AE4}
+	EndGlobalSection
+EndGlobal
