@@ -118,8 +118,8 @@ namespace Mirage_BOT
             // 
             this.threadsToolStripMenuItem.ForeColor = System.Drawing.Color.Gold;
             this.threadsToolStripMenuItem.Name = "threadsToolStripMenuItem";
-            this.threadsToolStripMenuItem.Size = new System.Drawing.Size(60, 20);
-            this.threadsToolStripMenuItem.Text = "Threads";
+            this.threadsToolStripMenuItem.Size = new System.Drawing.Size(43, 20);
+            this.threadsToolStripMenuItem.Text = "Proc";
             // 
             // tableLayoutPanel1
             // 
@@ -292,6 +292,7 @@ namespace Mirage_BOT
             this.MinimizeBox = false;
             this.MinimumSize = new System.Drawing.Size(190, 235);
             this.Name = "MainForm";
+            this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Mirage-BOT";
             this.ClockContainer_panel.ResumeLayout(false);
